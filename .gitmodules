@@ -4,3 +4,6 @@
 [submodule "DaniyalCustomerCard"]
 	path = DaniyalCustomerCard
 	url = https://github.com/codeconsult12/DaniyalCustomerCard.git
+[submodule "DaniyalCustomerCard-1-"]
+	path = DaniyalCustomerCard-1-
+	url = https://github.com/codeconsult12/DaniyalCustomerCard-1-.git
