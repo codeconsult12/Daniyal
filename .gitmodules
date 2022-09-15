@@ -1,3 +1,6 @@
 [submodule "Backup-Sync-Addin"]
 	path = Backup-Sync-Addin
 	url = https://github.com/codeconsult12/Backup-Sync-Addin.git
+[submodule "DaniyalCustomerCard"]
+	path = DaniyalCustomerCard
+	url = https://github.com/codeconsult12/DaniyalCustomerCard.git
